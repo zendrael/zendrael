@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on browser games projects
+- Also some web dev tools
+- Feel free to reach out!
+  
 <!--
 **zendrael/zendrael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
