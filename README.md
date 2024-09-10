@@ -1,8 +1,9 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on browser games projects
+- I’m currently working on browser games projects
 - Also some web dev tools
 - Feel free to reach out!
+- You can also see some stuff at [https://www.youtube.com/@Zendrael](https://www.youtube.com/@Zendrael)
   
 <!--
 **zendrael/zendrael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
